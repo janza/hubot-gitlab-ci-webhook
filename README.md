@@ -17,3 +17,5 @@ Then add **hubot-gitlab-ci-webhook** to your `external-scripts.json`:
 ```
 
 Add gitlab webhook url: ```http://<hubot.url>/gitlabci```
+
+Set ```GITLABCI_CHANNEL``` env variable to room that will receive notifications
