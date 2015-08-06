@@ -1,7 +1,7 @@
 {
   "name": "hubot-gitlab-ci-webhook",
   "description": "A hubot script that notifies of gitlab ci build results",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Josip Janžić <josip.janzic@gmail.com>",
   "license": "MIT",
 
