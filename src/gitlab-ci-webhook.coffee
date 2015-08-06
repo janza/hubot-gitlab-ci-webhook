@@ -30,4 +30,3 @@ module.exports = (robot) ->
     else
       robot.messageRoom room, "Build ##{id} by #{user} succeeded in #{time} seconds."
 
-    res.send 'OK'
